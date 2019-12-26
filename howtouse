@@ -1,0 +1,3 @@
+# build audiometer (cargo build --release)
+# plug controller in
+audiometer/target/release/audiometer | python volume-meter.py
